@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @EuniceFO
 - 👀 I’m interested in becoming a Data Scientist
-- 🌱 I’m currently learning Python and SQL
+- 🌱 I’m currently learning SQL
+- Ask me about SPSS, STATA, R, EXCEL, POWERBI and PYTHON
 - 💞️ I’m looking to collaborate on different projects
 - 📫 You can reach me via my email euniceowa6@gmail.com
 - 😄 Pronouns: She/Her
